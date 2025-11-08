@@ -1,4 +1,13 @@
-# Quartz v4
+# База знаний
+
+#### SP404 Community 
+
+Мы собираем и дополняем знания и опыт работы с сэмплерами Roland серии SP-404.
+
+Используем Obsidian и Quartz для публикации «цифрового сада» в вебе.
+
+
+## Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
