@@ -1,3 +1,6 @@
+---
+title: SP-404MK2
+---
 Год выпуска: 2021 [[Хронология SP-404]]
 
 На 2025-11-15 актуальная версия [прошивки](https://www.roland.com/global/support/by_product/sp-404mk2/updates_drivers/): Ver.5.01.  См. [[Обновление прошивки]]
