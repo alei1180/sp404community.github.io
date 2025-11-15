@@ -1,9 +1,12 @@
 ---
+title: "keyboard shortcuts"
 aliases:
-  - Шорткаты
+  - "Шорткаты"
+  - "Горячие клавиши"
+  - "hotkeys"
 ---
 
-[[SP-404MK2]], [[Мануалы SP-404MK2]]
+[[SP-404MK2]], [[Мануалы]]
 ### Горячие клавиши SP-404MK2
 
 1. [Шорткаты v.5.0.1 для SP-404MK2](https://telegra.ph/sp404-hotkeys-11-11) от [@sergiks](https://t.me/sergiks)
