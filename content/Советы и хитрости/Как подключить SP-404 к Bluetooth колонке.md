@@ -1,4 +1,4 @@
-[[content/SP-404MK2/index]], [[SP-404SX]], [[SP-404A]], [[SP-404]], [[../SP-404MK2/Провода]]
+[[../SP-404MK2/index|SP-404MK2]], [[../SP-404SX/index|SP-404SX]], [[../SP-404A/index|SP-404A]], [[../SP-404/index|SP-404]], [[../SP-404MK2/Провода|Провода]]
 
 Колонка без проводных входов: JBL Charge 5.
 
