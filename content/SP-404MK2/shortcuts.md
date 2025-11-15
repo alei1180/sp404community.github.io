@@ -1,9 +1,9 @@
 ---
-title: "keyboard shortcuts"
+title: Шорткаты
 aliases:
-  - "Шорткаты"
-  - "Горячие клавиши"
-  - "hotkeys"
+  - shortcuts
+  - горячие клавиши
+  - hotkeys
 ---
 
 [[SP-404MK2]], [[Мануалы]]
