@@ -11,6 +11,13 @@ aliases:
 Сочетания с кнопками: [SHIFT](#shift), [REMAIN](#remain), [VALUE](#value), [DEL](#del), [COPY](#copy), [MFX](#mfx), [DJ mode](#dj-mode), [TR-REC](#tr-rec)
 
 ## SHIFT
+
+##### FIXED VELOCITY (ФИКСИРОВАННАЯ СИЛА НАЖАТИЯ)
+
+Сочетание: `SHIFT + PAD [1]`
+Действие: Даже слабое нажатие на пэд будет звучать, будто максимально сильное
+
+
 Удерживая нажатой кнопку [SHIFT]
 ```
 Пэд [1]
